@@ -7,3 +7,7 @@ installs some system commands
 * enable ssh
 
 * install some network tools
+
+git clone git@github.com:cloudmesh/setsys.git
+cd setsys
+sh install.sh
