@@ -1,3 +1,9 @@
 # setsys
 
-comamnds to easily set up a system
+installs some system commands
+
+* setup filesystems for NAS
+
+* enable ssh
+
+* install some network tools
