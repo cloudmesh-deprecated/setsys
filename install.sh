@@ -1,14 +1,18 @@
 #
+# dev
+#
+sudo apt install -y git
+#
 # filesystem
 #
-sudo apt install dosfstools
-sudo apt install e2fsprogs
-sudo apt install xfsprogs
-sudo apt install f2fs-tools
-sudo apt install btrfs-progs
-sudo apt install exfat-utils
-sudo apt install udftools
-sudo apt install hfsprogs
+sudo apt install -y dosfstools
+sudo apt install -y e2fsprogs
+sudo apt install -y xfsprogs
+sudo apt install -y f2fs-tools
+sudo apt install -y btrfs-progs
+sudo apt install -y exfat-utils
+sudo apt install -y udftools
+sudo apt install -y hfsprogs
 #
 # Network tools
 #
