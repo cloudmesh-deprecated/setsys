@@ -16,11 +16,11 @@ sudo apt install -y hfsprogs
 #
 # Network tools
 #
-sudo apt install net-tools
+sudo apt install -y net-tools
 #
 # ssh
 #
-sudo apt install openssh-server
+sudo apt install -y openssh-server
 sudo ufw allow ssh
 sudo ufw allow 22
 sudo systemctl enable --now ssh
