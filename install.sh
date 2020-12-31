@@ -17,6 +17,7 @@ sudo apt install -y hfsprogs
 # Network tools
 #
 sudo apt install -y net-tools
+sudo snap install nmap  # version 7.91, newer than apt install
 #
 # ssh
 #
